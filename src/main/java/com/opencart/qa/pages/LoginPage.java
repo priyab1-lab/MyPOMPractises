@@ -9,7 +9,7 @@ import com.opencart.qa.utils.AppConstants;
 import seleniumSessions.ElementUtil1;
 
 public class LoginPage {
-	//1st page program
+	
 	//1. initi driver and elementUtil
 	private WebDriver driver;
 	private ElementUtil1 eleUtil;
