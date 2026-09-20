@@ -1,3 +1,4 @@
-public void NewPage(){
+public class NewPage()
+{
 String="Gaurav";
 }
